@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Abhishek
 
-<!--
-**abhishekdnair2006-stack/abhishekdnair2006-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a QA tester for the FSPY-V3 Full-Stack Engineering course. I work through the student tasks to check them.
 
-Here are some ideas to get you started:
+## What I am exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Git and GitHub
+- Python and pytest
+- TypeScript
+- React, FastAPI and PostgreSQL (later in the course)
+
+## My page
+
+https://abhishekdnair2006-stack.github.io
+
+## Projects I plan to build
+
+- Shop Udhaar Book: a small app for shop owners to track who owes them money
